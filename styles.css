@@ -44,21 +44,7 @@ body {
 }
 
 /* Hero Section */
-.hero {
-    height: 100vh;
-    background: linear-gradient(to right, #141e30, #243b55);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: black;
-}
 
-.hero-text {
-    font-size: 60px;
-    color: #fff;
-    text-shadow: 0 5px 20px rgba(0, 201, 255, 0.8);
-    transform: perspective(800px) rotateX(20deg);
-}
 
 /* Section Styles */
 .section {
